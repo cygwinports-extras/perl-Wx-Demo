@@ -2,7 +2,7 @@ CPAN_AUTHOR=mdootson
 inherit perl
 
 NAME="perl-Wx-Demo"
-VERSION=0.18
+VERSION=0.22
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="wxPerl demo"
