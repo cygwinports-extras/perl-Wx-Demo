@@ -1,0 +1,14 @@
+CPAN_AUTHOR=mdootson
+inherit perl
+
+NAME="perl-Wx-Demo"
+VERSION=0.18
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="wxPerl demo"
+DESCRIPTION="Every demo is a module in the Wx::DemoModules::* namespace. On
+startup Wx::Demo collects the lits of Demo Modules, tries to load each one of
+them and displays a list of them based on a categorization within the Demo
+Modules."
+
+ARCH=noarch
